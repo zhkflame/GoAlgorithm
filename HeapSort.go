@@ -1,7 +1,11 @@
 package GoAlgorithm
 
 import (
+<<<<<<< HEAD
 	"fmt" //看看哪里不一样
+=======
+	"fmt"  #来，在测试一个
+>>>>>>> 28efff85f4ca6fa9bae3931fbcc3f43d3f6dea90
 )
 
 func heapAjust(s []int, start int, end int) bool {

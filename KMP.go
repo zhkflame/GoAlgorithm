@@ -1,7 +1,7 @@
 package GoAlgorithm
 
 import (
-	"fmt"
+	"fmt"   #用来测试github冲突问题
 )
 
 func GetNext(s string) ([]int, bool) {
